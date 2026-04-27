@@ -445,7 +445,7 @@ gzip backup.tar
 
 ls .gz
 ## OUTPUT
-<img width="625" height="102" alt="image" src="https://github.com/user-attachments/assets/d14cec0c-3114-4630-84f7-4f703da78e35" />
+<img width="763" height="125" alt="image" src="https://github.com/user-attachments/assets/35a3cd1d-dd6a-4045-b697-418205ed3773" />
 
  
 gunzip backup.tar.gz
@@ -1025,7 +1025,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ <img width="721" height="124" alt="image" src="https://github.com/user-attachments/assets/ca20e842-ac69-4650-86a5-0ece62fa03c2" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
